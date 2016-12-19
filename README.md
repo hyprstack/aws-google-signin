@@ -38,7 +38,7 @@ Below is a sample of what the trust IAM rule should look like
   ]
 }
 ```
-Below is an example IAM policy teh role needs to execute 'GET' requests on API Gateway
+Below is an example IAM policy the role needs to execute 'GET' requests on API Gateway
 ```
 {
     "Version": "2012-10-17",
