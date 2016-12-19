@@ -58,5 +58,5 @@ Below is an example IAM policy the role needs to execute 'GET' requests on API G
 
 1. Look for the meta tag with the name "google-signin-client_id".  Change the content value from an empty string to your google client id
 1. In the javascript section change the variable "roleArn" to the Arn of the role you created in the Setup AWS section above.
-1. Set the correct AWS Region for teh variable "AWS.config.region"
+1. Set the correct AWS Region for the variable "AWS.config.region"
 1. Change "testFunction" to a real value to call one of your endpoints that require authentication
